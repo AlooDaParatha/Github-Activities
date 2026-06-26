@@ -70,9 +70,7 @@ export async function fetchContributions(username, token, years = 1) {
   const now = new Date();
   const to = now.toISOString();
   const from = new Date(
-    now.getFullYear() - Math.min(years, 5),
-    now.getMonth(),
-    now.getDate()
+    now.getTime() - 30 * 24 * 60 * 60 * 1000
   ).toISOString();
 
   console.log(`Fetching contributions for @${username} (${from.slice(0, 10)} → ${to.slice(0, 10)})…`);
