@@ -1,0 +1,5187 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="799"
+  height="213"
+  viewBox="0 0 799 213"
+  role="img"
+  aria-label="Ansh Yadav's GitHub contribution graph"
+>
+  <defs>
+
+  <style>
+    .contribution-cell-8n3gcx:hover rect {
+      stroke: #e6edf3;
+      stroke-width: 1px;
+    }
+  </style></defs>
+  <!-- Background -->
+  <rect width="799" height="213" rx="6" fill="#0d1117"/>
+  
+  <!-- Header -->
+  
+  <text x="16" y="38" font-size="14" font-weight="600" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" >Ansh Yadav's Contributions</text>
+  <!-- Month labels -->
+  <text x="44" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Jun</text>
+  <text x="72" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Jul</text>
+  <text x="128" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Aug</text>
+  <text x="198" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Sep</text>
+  <text x="254" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Oct</text>
+  <text x="310" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Nov</text>
+  <text x="380" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Dec</text>
+  <text x="436" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Jan</text>
+  <text x="492" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Feb</text>
+  <text x="548" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Mar</text>
+  <text x="618" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Apr</text>
+  <text x="674" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">May</text>
+  <text x="744" y="63" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Jun</text>
+  <!-- Weekday labels -->
+  
+  <text x="16" y="94" font-size="9" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="start">Mon</text>
+  
+  <text x="16" y="122" font-size="9" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="start">Wed</text>
+  
+  <text x="16" y="150" font-size="9" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="start">Fri</text>
+  
+  <!-- Contribution cells -->
+  
+  <g class="contribution-cell-8n3gcx" transform="translate(44,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-06-26"
+    />
+    <title>0 contributions on Thursday, Jun 26, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(44,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-06-27"
+    />
+    <title>0 contributions on Friday, Jun 27, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(44,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-06-28"
+    />
+    <title>0 contributions on Saturday, Jun 28, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(58,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-06-29"
+    />
+    <title>0 contributions on Sunday, Jun 29, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(58,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-06-30"
+    />
+    <title>0 contributions on Monday, Jun 30, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(58,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-01"
+    />
+    <title>0 contributions on Tuesday, Jul 1, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(58,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-02"
+    />
+    <title>0 contributions on Wednesday, Jul 2, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(58,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-03"
+    />
+    <title>0 contributions on Thursday, Jul 3, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(58,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-04"
+    />
+    <title>0 contributions on Friday, Jul 4, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(58,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-05"
+    />
+    <title>0 contributions on Saturday, Jul 5, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(72,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#40c463"
+      stroke="none"
+      stroke-width="1"
+      data-count="4"
+      data-date="2025-07-06"
+    />
+    <title>4 contributions on Sunday, Jul 6, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(72,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-07"
+    />
+    <title>0 contributions on Monday, Jul 7, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(72,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-08"
+    />
+    <title>0 contributions on Tuesday, Jul 8, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(72,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-09"
+    />
+    <title>0 contributions on Wednesday, Jul 9, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(72,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-10"
+    />
+    <title>0 contributions on Thursday, Jul 10, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(72,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-11"
+    />
+    <title>0 contributions on Friday, Jul 11, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(72,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-12"
+    />
+    <title>0 contributions on Saturday, Jul 12, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(86,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-13"
+    />
+    <title>0 contributions on Sunday, Jul 13, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(86,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-14"
+    />
+    <title>0 contributions on Monday, Jul 14, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(86,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-15"
+    />
+    <title>0 contributions on Tuesday, Jul 15, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(86,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-16"
+    />
+    <title>0 contributions on Wednesday, Jul 16, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(86,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-17"
+    />
+    <title>0 contributions on Thursday, Jul 17, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(86,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-18"
+    />
+    <title>0 contributions on Friday, Jul 18, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(86,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-19"
+    />
+    <title>0 contributions on Saturday, Jul 19, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(100,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-20"
+    />
+    <title>0 contributions on Sunday, Jul 20, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(100,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-21"
+    />
+    <title>0 contributions on Monday, Jul 21, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(100,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-22"
+    />
+    <title>0 contributions on Tuesday, Jul 22, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(100,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-23"
+    />
+    <title>0 contributions on Wednesday, Jul 23, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(100,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-24"
+    />
+    <title>0 contributions on Thursday, Jul 24, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(100,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-25"
+    />
+    <title>0 contributions on Friday, Jul 25, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(100,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-26"
+    />
+    <title>0 contributions on Saturday, Jul 26, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(114,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-27"
+    />
+    <title>0 contributions on Sunday, Jul 27, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(114,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-28"
+    />
+    <title>0 contributions on Monday, Jul 28, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(114,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#216e39"
+      stroke="none"
+      stroke-width="1"
+      data-count="21"
+      data-date="2025-07-29"
+    />
+    <title>21 contributions on Tuesday, Jul 29, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(114,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#216e39"
+      stroke="none"
+      stroke-width="1"
+      data-count="11"
+      data-date="2025-07-30"
+    />
+    <title>11 contributions on Wednesday, Jul 30, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(114,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-07-31"
+    />
+    <title>0 contributions on Thursday, Jul 31, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(114,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-01"
+    />
+    <title>0 contributions on Friday, Aug 1, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(114,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-02"
+    />
+    <title>0 contributions on Saturday, Aug 2, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(128,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#216e39"
+      stroke="none"
+      stroke-width="1"
+      data-count="9"
+      data-date="2025-08-03"
+    />
+    <title>9 contributions on Sunday, Aug 3, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(128,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-04"
+    />
+    <title>0 contributions on Monday, Aug 4, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(128,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-05"
+    />
+    <title>0 contributions on Tuesday, Aug 5, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(128,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-06"
+    />
+    <title>0 contributions on Wednesday, Aug 6, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(128,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-07"
+    />
+    <title>0 contributions on Thursday, Aug 7, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(128,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-08"
+    />
+    <title>0 contributions on Friday, Aug 8, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(128,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-09"
+    />
+    <title>0 contributions on Saturday, Aug 9, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(142,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-10"
+    />
+    <title>0 contributions on Sunday, Aug 10, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(142,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-11"
+    />
+    <title>0 contributions on Monday, Aug 11, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(142,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-12"
+    />
+    <title>0 contributions on Tuesday, Aug 12, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(142,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-13"
+    />
+    <title>0 contributions on Wednesday, Aug 13, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(142,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#9be9a8"
+      stroke="none"
+      stroke-width="1"
+      data-count="2"
+      data-date="2025-08-14"
+    />
+    <title>2 contributions on Thursday, Aug 14, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(142,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-15"
+    />
+    <title>0 contributions on Friday, Aug 15, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(142,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-16"
+    />
+    <title>0 contributions on Saturday, Aug 16, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(156,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-17"
+    />
+    <title>0 contributions on Sunday, Aug 17, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(156,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-18"
+    />
+    <title>0 contributions on Monday, Aug 18, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(156,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-19"
+    />
+    <title>0 contributions on Tuesday, Aug 19, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(156,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-20"
+    />
+    <title>0 contributions on Wednesday, Aug 20, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(156,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-21"
+    />
+    <title>0 contributions on Thursday, Aug 21, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(156,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-22"
+    />
+    <title>0 contributions on Friday, Aug 22, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(156,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-23"
+    />
+    <title>0 contributions on Saturday, Aug 23, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(170,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-24"
+    />
+    <title>0 contributions on Sunday, Aug 24, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(170,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-25"
+    />
+    <title>0 contributions on Monday, Aug 25, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(170,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#216e39"
+      stroke="none"
+      stroke-width="1"
+      data-count="9"
+      data-date="2025-08-26"
+    />
+    <title>9 contributions on Tuesday, Aug 26, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(170,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-27"
+    />
+    <title>0 contributions on Wednesday, Aug 27, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(170,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-28"
+    />
+    <title>0 contributions on Thursday, Aug 28, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(170,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-29"
+    />
+    <title>0 contributions on Friday, Aug 29, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(170,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-30"
+    />
+    <title>0 contributions on Saturday, Aug 30, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(184,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-08-31"
+    />
+    <title>0 contributions on Sunday, Aug 31, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(184,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-01"
+    />
+    <title>0 contributions on Monday, Sep 1, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(184,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-02"
+    />
+    <title>0 contributions on Tuesday, Sep 2, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(184,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-03"
+    />
+    <title>0 contributions on Wednesday, Sep 3, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(184,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-04"
+    />
+    <title>0 contributions on Thursday, Sep 4, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(184,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-05"
+    />
+    <title>0 contributions on Friday, Sep 5, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(184,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-06"
+    />
+    <title>0 contributions on Saturday, Sep 6, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(198,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-07"
+    />
+    <title>0 contributions on Sunday, Sep 7, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(198,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-08"
+    />
+    <title>0 contributions on Monday, Sep 8, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(198,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-09"
+    />
+    <title>0 contributions on Tuesday, Sep 9, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(198,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-10"
+    />
+    <title>0 contributions on Wednesday, Sep 10, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(198,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-11"
+    />
+    <title>0 contributions on Thursday, Sep 11, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(198,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-12"
+    />
+    <title>0 contributions on Friday, Sep 12, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(198,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-13"
+    />
+    <title>0 contributions on Saturday, Sep 13, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(212,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-14"
+    />
+    <title>0 contributions on Sunday, Sep 14, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(212,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-15"
+    />
+    <title>0 contributions on Monday, Sep 15, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(212,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-16"
+    />
+    <title>0 contributions on Tuesday, Sep 16, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(212,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-17"
+    />
+    <title>0 contributions on Wednesday, Sep 17, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(212,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-18"
+    />
+    <title>0 contributions on Thursday, Sep 18, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(212,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-19"
+    />
+    <title>0 contributions on Friday, Sep 19, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(212,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-20"
+    />
+    <title>0 contributions on Saturday, Sep 20, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(226,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-21"
+    />
+    <title>0 contributions on Sunday, Sep 21, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(226,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-22"
+    />
+    <title>0 contributions on Monday, Sep 22, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(226,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-23"
+    />
+    <title>0 contributions on Tuesday, Sep 23, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(226,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-24"
+    />
+    <title>0 contributions on Wednesday, Sep 24, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(226,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-25"
+    />
+    <title>0 contributions on Thursday, Sep 25, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(226,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-26"
+    />
+    <title>0 contributions on Friday, Sep 26, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(226,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-27"
+    />
+    <title>0 contributions on Saturday, Sep 27, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(240,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-28"
+    />
+    <title>0 contributions on Sunday, Sep 28, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(240,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-29"
+    />
+    <title>0 contributions on Monday, Sep 29, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(240,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-09-30"
+    />
+    <title>0 contributions on Tuesday, Sep 30, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(240,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-01"
+    />
+    <title>0 contributions on Wednesday, Oct 1, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(240,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-02"
+    />
+    <title>0 contributions on Thursday, Oct 2, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(240,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-03"
+    />
+    <title>0 contributions on Friday, Oct 3, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(240,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-04"
+    />
+    <title>0 contributions on Saturday, Oct 4, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(254,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#40c463"
+      stroke="none"
+      stroke-width="1"
+      data-count="3"
+      data-date="2025-10-05"
+    />
+    <title>3 contributions on Sunday, Oct 5, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(254,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#9be9a8"
+      stroke="none"
+      stroke-width="1"
+      data-count="1"
+      data-date="2025-10-06"
+    />
+    <title>1 contribution on Monday, Oct 6, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(254,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#30a14e"
+      stroke="none"
+      stroke-width="1"
+      data-count="6"
+      data-date="2025-10-07"
+    />
+    <title>6 contributions on Tuesday, Oct 7, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(254,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-08"
+    />
+    <title>0 contributions on Wednesday, Oct 8, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(254,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-09"
+    />
+    <title>0 contributions on Thursday, Oct 9, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(254,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-10"
+    />
+    <title>0 contributions on Friday, Oct 10, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(254,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#40c463"
+      stroke="none"
+      stroke-width="1"
+      data-count="3"
+      data-date="2025-10-11"
+    />
+    <title>3 contributions on Saturday, Oct 11, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(268,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-12"
+    />
+    <title>0 contributions on Sunday, Oct 12, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(268,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-13"
+    />
+    <title>0 contributions on Monday, Oct 13, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(268,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-14"
+    />
+    <title>0 contributions on Tuesday, Oct 14, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(268,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-15"
+    />
+    <title>0 contributions on Wednesday, Oct 15, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(268,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-16"
+    />
+    <title>0 contributions on Thursday, Oct 16, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(268,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-17"
+    />
+    <title>0 contributions on Friday, Oct 17, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(268,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-18"
+    />
+    <title>0 contributions on Saturday, Oct 18, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(282,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-19"
+    />
+    <title>0 contributions on Sunday, Oct 19, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(282,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-20"
+    />
+    <title>0 contributions on Monday, Oct 20, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(282,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-21"
+    />
+    <title>0 contributions on Tuesday, Oct 21, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(282,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-22"
+    />
+    <title>0 contributions on Wednesday, Oct 22, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(282,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-23"
+    />
+    <title>0 contributions on Thursday, Oct 23, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(282,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-24"
+    />
+    <title>0 contributions on Friday, Oct 24, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(282,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-25"
+    />
+    <title>0 contributions on Saturday, Oct 25, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(296,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-26"
+    />
+    <title>0 contributions on Sunday, Oct 26, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(296,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#40c463"
+      stroke="none"
+      stroke-width="1"
+      data-count="3"
+      data-date="2025-10-27"
+    />
+    <title>3 contributions on Monday, Oct 27, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(296,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#9be9a8"
+      stroke="none"
+      stroke-width="1"
+      data-count="2"
+      data-date="2025-10-28"
+    />
+    <title>2 contributions on Tuesday, Oct 28, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(296,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-29"
+    />
+    <title>0 contributions on Wednesday, Oct 29, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(296,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-30"
+    />
+    <title>0 contributions on Thursday, Oct 30, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(296,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-10-31"
+    />
+    <title>0 contributions on Friday, Oct 31, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(296,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-01"
+    />
+    <title>0 contributions on Saturday, Nov 1, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(310,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-02"
+    />
+    <title>0 contributions on Sunday, Nov 2, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(310,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-03"
+    />
+    <title>0 contributions on Monday, Nov 3, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(310,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-04"
+    />
+    <title>0 contributions on Tuesday, Nov 4, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(310,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-05"
+    />
+    <title>0 contributions on Wednesday, Nov 5, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(310,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-06"
+    />
+    <title>0 contributions on Thursday, Nov 6, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(310,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-07"
+    />
+    <title>0 contributions on Friday, Nov 7, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(310,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-08"
+    />
+    <title>0 contributions on Saturday, Nov 8, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(324,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-09"
+    />
+    <title>0 contributions on Sunday, Nov 9, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(324,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-10"
+    />
+    <title>0 contributions on Monday, Nov 10, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(324,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-11"
+    />
+    <title>0 contributions on Tuesday, Nov 11, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(324,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-12"
+    />
+    <title>0 contributions on Wednesday, Nov 12, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(324,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-13"
+    />
+    <title>0 contributions on Thursday, Nov 13, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(324,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-14"
+    />
+    <title>0 contributions on Friday, Nov 14, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(324,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-15"
+    />
+    <title>0 contributions on Saturday, Nov 15, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(338,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-16"
+    />
+    <title>0 contributions on Sunday, Nov 16, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(338,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-17"
+    />
+    <title>0 contributions on Monday, Nov 17, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(338,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-18"
+    />
+    <title>0 contributions on Tuesday, Nov 18, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(338,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-19"
+    />
+    <title>0 contributions on Wednesday, Nov 19, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(338,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-20"
+    />
+    <title>0 contributions on Thursday, Nov 20, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(338,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-21"
+    />
+    <title>0 contributions on Friday, Nov 21, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(338,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-22"
+    />
+    <title>0 contributions on Saturday, Nov 22, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(352,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-23"
+    />
+    <title>0 contributions on Sunday, Nov 23, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(352,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-24"
+    />
+    <title>0 contributions on Monday, Nov 24, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(352,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-25"
+    />
+    <title>0 contributions on Tuesday, Nov 25, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(352,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-26"
+    />
+    <title>0 contributions on Wednesday, Nov 26, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(352,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-27"
+    />
+    <title>0 contributions on Thursday, Nov 27, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(352,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-28"
+    />
+    <title>0 contributions on Friday, Nov 28, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(352,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-29"
+    />
+    <title>0 contributions on Saturday, Nov 29, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(366,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-11-30"
+    />
+    <title>0 contributions on Sunday, Nov 30, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(366,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-01"
+    />
+    <title>0 contributions on Monday, Dec 1, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(366,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-02"
+    />
+    <title>0 contributions on Tuesday, Dec 2, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(366,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-03"
+    />
+    <title>0 contributions on Wednesday, Dec 3, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(366,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-04"
+    />
+    <title>0 contributions on Thursday, Dec 4, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(366,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-05"
+    />
+    <title>0 contributions on Friday, Dec 5, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(366,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-06"
+    />
+    <title>0 contributions on Saturday, Dec 6, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(380,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-07"
+    />
+    <title>0 contributions on Sunday, Dec 7, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(380,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-08"
+    />
+    <title>0 contributions on Monday, Dec 8, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(380,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-09"
+    />
+    <title>0 contributions on Tuesday, Dec 9, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(380,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-10"
+    />
+    <title>0 contributions on Wednesday, Dec 10, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(380,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-11"
+    />
+    <title>0 contributions on Thursday, Dec 11, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(380,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-12"
+    />
+    <title>0 contributions on Friday, Dec 12, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(380,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-13"
+    />
+    <title>0 contributions on Saturday, Dec 13, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(394,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-14"
+    />
+    <title>0 contributions on Sunday, Dec 14, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(394,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-15"
+    />
+    <title>0 contributions on Monday, Dec 15, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(394,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-16"
+    />
+    <title>0 contributions on Tuesday, Dec 16, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(394,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-17"
+    />
+    <title>0 contributions on Wednesday, Dec 17, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(394,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-18"
+    />
+    <title>0 contributions on Thursday, Dec 18, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(394,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-19"
+    />
+    <title>0 contributions on Friday, Dec 19, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(394,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-20"
+    />
+    <title>0 contributions on Saturday, Dec 20, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(408,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-21"
+    />
+    <title>0 contributions on Sunday, Dec 21, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(408,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-22"
+    />
+    <title>0 contributions on Monday, Dec 22, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(408,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-23"
+    />
+    <title>0 contributions on Tuesday, Dec 23, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(408,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-24"
+    />
+    <title>0 contributions on Wednesday, Dec 24, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(408,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-25"
+    />
+    <title>0 contributions on Thursday, Dec 25, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(408,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-26"
+    />
+    <title>0 contributions on Friday, Dec 26, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(408,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-27"
+    />
+    <title>0 contributions on Saturday, Dec 27, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(422,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-28"
+    />
+    <title>0 contributions on Sunday, Dec 28, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(422,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-29"
+    />
+    <title>0 contributions on Monday, Dec 29, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(422,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-30"
+    />
+    <title>0 contributions on Tuesday, Dec 30, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(422,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2025-12-31"
+    />
+    <title>0 contributions on Wednesday, Dec 31, 2025</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(422,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-01"
+    />
+    <title>0 contributions on Thursday, Jan 1, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(422,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-02"
+    />
+    <title>0 contributions on Friday, Jan 2, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(422,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-03"
+    />
+    <title>0 contributions on Saturday, Jan 3, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(436,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-04"
+    />
+    <title>0 contributions on Sunday, Jan 4, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(436,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-05"
+    />
+    <title>0 contributions on Monday, Jan 5, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(436,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-06"
+    />
+    <title>0 contributions on Tuesday, Jan 6, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(436,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-07"
+    />
+    <title>0 contributions on Wednesday, Jan 7, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(436,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-08"
+    />
+    <title>0 contributions on Thursday, Jan 8, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(436,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-09"
+    />
+    <title>0 contributions on Friday, Jan 9, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(436,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-10"
+    />
+    <title>0 contributions on Saturday, Jan 10, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(450,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-11"
+    />
+    <title>0 contributions on Sunday, Jan 11, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(450,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-12"
+    />
+    <title>0 contributions on Monday, Jan 12, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(450,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-13"
+    />
+    <title>0 contributions on Tuesday, Jan 13, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(450,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-14"
+    />
+    <title>0 contributions on Wednesday, Jan 14, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(450,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-15"
+    />
+    <title>0 contributions on Thursday, Jan 15, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(450,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-16"
+    />
+    <title>0 contributions on Friday, Jan 16, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(450,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-17"
+    />
+    <title>0 contributions on Saturday, Jan 17, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(464,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-18"
+    />
+    <title>0 contributions on Sunday, Jan 18, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(464,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-19"
+    />
+    <title>0 contributions on Monday, Jan 19, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(464,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-20"
+    />
+    <title>0 contributions on Tuesday, Jan 20, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(464,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-21"
+    />
+    <title>0 contributions on Wednesday, Jan 21, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(464,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-22"
+    />
+    <title>0 contributions on Thursday, Jan 22, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(464,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-23"
+    />
+    <title>0 contributions on Friday, Jan 23, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(464,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-24"
+    />
+    <title>0 contributions on Saturday, Jan 24, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(478,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-25"
+    />
+    <title>0 contributions on Sunday, Jan 25, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(478,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-26"
+    />
+    <title>0 contributions on Monday, Jan 26, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(478,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-27"
+    />
+    <title>0 contributions on Tuesday, Jan 27, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(478,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-28"
+    />
+    <title>0 contributions on Wednesday, Jan 28, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(478,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-29"
+    />
+    <title>0 contributions on Thursday, Jan 29, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(478,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-30"
+    />
+    <title>0 contributions on Friday, Jan 30, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(478,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-01-31"
+    />
+    <title>0 contributions on Saturday, Jan 31, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(492,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-01"
+    />
+    <title>0 contributions on Sunday, Feb 1, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(492,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-02"
+    />
+    <title>0 contributions on Monday, Feb 2, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(492,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-03"
+    />
+    <title>0 contributions on Tuesday, Feb 3, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(492,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-04"
+    />
+    <title>0 contributions on Wednesday, Feb 4, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(492,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-05"
+    />
+    <title>0 contributions on Thursday, Feb 5, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(492,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-06"
+    />
+    <title>0 contributions on Friday, Feb 6, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(492,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-07"
+    />
+    <title>0 contributions on Saturday, Feb 7, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(506,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-08"
+    />
+    <title>0 contributions on Sunday, Feb 8, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(506,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-09"
+    />
+    <title>0 contributions on Monday, Feb 9, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(506,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-10"
+    />
+    <title>0 contributions on Tuesday, Feb 10, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(506,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-11"
+    />
+    <title>0 contributions on Wednesday, Feb 11, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(506,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-12"
+    />
+    <title>0 contributions on Thursday, Feb 12, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(506,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-13"
+    />
+    <title>0 contributions on Friday, Feb 13, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(506,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-14"
+    />
+    <title>0 contributions on Saturday, Feb 14, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(520,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-15"
+    />
+    <title>0 contributions on Sunday, Feb 15, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(520,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-16"
+    />
+    <title>0 contributions on Monday, Feb 16, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(520,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-17"
+    />
+    <title>0 contributions on Tuesday, Feb 17, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(520,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-18"
+    />
+    <title>0 contributions on Wednesday, Feb 18, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(520,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-19"
+    />
+    <title>0 contributions on Thursday, Feb 19, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(520,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-20"
+    />
+    <title>0 contributions on Friday, Feb 20, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(520,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-21"
+    />
+    <title>0 contributions on Saturday, Feb 21, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(534,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-22"
+    />
+    <title>0 contributions on Sunday, Feb 22, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(534,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-23"
+    />
+    <title>0 contributions on Monday, Feb 23, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(534,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-24"
+    />
+    <title>0 contributions on Tuesday, Feb 24, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(534,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-25"
+    />
+    <title>0 contributions on Wednesday, Feb 25, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(534,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-26"
+    />
+    <title>0 contributions on Thursday, Feb 26, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(534,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-27"
+    />
+    <title>0 contributions on Friday, Feb 27, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(534,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-02-28"
+    />
+    <title>0 contributions on Saturday, Feb 28, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(548,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-01"
+    />
+    <title>0 contributions on Sunday, Mar 1, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(548,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-02"
+    />
+    <title>0 contributions on Monday, Mar 2, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(548,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-03"
+    />
+    <title>0 contributions on Tuesday, Mar 3, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(548,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-04"
+    />
+    <title>0 contributions on Wednesday, Mar 4, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(548,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-05"
+    />
+    <title>0 contributions on Thursday, Mar 5, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(548,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-06"
+    />
+    <title>0 contributions on Friday, Mar 6, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(548,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-07"
+    />
+    <title>0 contributions on Saturday, Mar 7, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(562,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-08"
+    />
+    <title>0 contributions on Sunday, Mar 8, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(562,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-09"
+    />
+    <title>0 contributions on Monday, Mar 9, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(562,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-10"
+    />
+    <title>0 contributions on Tuesday, Mar 10, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(562,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-11"
+    />
+    <title>0 contributions on Wednesday, Mar 11, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(562,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-12"
+    />
+    <title>0 contributions on Thursday, Mar 12, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(562,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-13"
+    />
+    <title>0 contributions on Friday, Mar 13, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(562,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-14"
+    />
+    <title>0 contributions on Saturday, Mar 14, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(576,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-15"
+    />
+    <title>0 contributions on Sunday, Mar 15, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(576,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-16"
+    />
+    <title>0 contributions on Monday, Mar 16, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(576,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-17"
+    />
+    <title>0 contributions on Tuesday, Mar 17, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(576,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-18"
+    />
+    <title>0 contributions on Wednesday, Mar 18, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(576,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-19"
+    />
+    <title>0 contributions on Thursday, Mar 19, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(576,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-20"
+    />
+    <title>0 contributions on Friday, Mar 20, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(576,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-21"
+    />
+    <title>0 contributions on Saturday, Mar 21, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(590,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-22"
+    />
+    <title>0 contributions on Sunday, Mar 22, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(590,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-23"
+    />
+    <title>0 contributions on Monday, Mar 23, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(590,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-24"
+    />
+    <title>0 contributions on Tuesday, Mar 24, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(590,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-25"
+    />
+    <title>0 contributions on Wednesday, Mar 25, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(590,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-26"
+    />
+    <title>0 contributions on Thursday, Mar 26, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(590,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-27"
+    />
+    <title>0 contributions on Friday, Mar 27, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(590,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-28"
+    />
+    <title>0 contributions on Saturday, Mar 28, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(604,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-29"
+    />
+    <title>0 contributions on Sunday, Mar 29, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(604,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-30"
+    />
+    <title>0 contributions on Monday, Mar 30, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(604,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-03-31"
+    />
+    <title>0 contributions on Tuesday, Mar 31, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(604,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-01"
+    />
+    <title>0 contributions on Wednesday, Apr 1, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(604,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-02"
+    />
+    <title>0 contributions on Thursday, Apr 2, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(604,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-03"
+    />
+    <title>0 contributions on Friday, Apr 3, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(604,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-04"
+    />
+    <title>0 contributions on Saturday, Apr 4, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(618,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-05"
+    />
+    <title>0 contributions on Sunday, Apr 5, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(618,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-06"
+    />
+    <title>0 contributions on Monday, Apr 6, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(618,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-07"
+    />
+    <title>0 contributions on Tuesday, Apr 7, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(618,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-08"
+    />
+    <title>0 contributions on Wednesday, Apr 8, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(618,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-09"
+    />
+    <title>0 contributions on Thursday, Apr 9, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(618,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-10"
+    />
+    <title>0 contributions on Friday, Apr 10, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(618,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-11"
+    />
+    <title>0 contributions on Saturday, Apr 11, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(632,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-12"
+    />
+    <title>0 contributions on Sunday, Apr 12, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(632,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-13"
+    />
+    <title>0 contributions on Monday, Apr 13, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(632,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-14"
+    />
+    <title>0 contributions on Tuesday, Apr 14, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(632,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-15"
+    />
+    <title>0 contributions on Wednesday, Apr 15, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(632,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-16"
+    />
+    <title>0 contributions on Thursday, Apr 16, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(632,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#216e39"
+      stroke="none"
+      stroke-width="1"
+      data-count="19"
+      data-date="2026-04-17"
+    />
+    <title>19 contributions on Friday, Apr 17, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(632,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-18"
+    />
+    <title>0 contributions on Saturday, Apr 18, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(646,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-19"
+    />
+    <title>0 contributions on Sunday, Apr 19, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(646,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-20"
+    />
+    <title>0 contributions on Monday, Apr 20, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(646,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-21"
+    />
+    <title>0 contributions on Tuesday, Apr 21, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(646,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-22"
+    />
+    <title>0 contributions on Wednesday, Apr 22, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(646,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-23"
+    />
+    <title>0 contributions on Thursday, Apr 23, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(646,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-24"
+    />
+    <title>0 contributions on Friday, Apr 24, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(646,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-25"
+    />
+    <title>0 contributions on Saturday, Apr 25, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(660,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-26"
+    />
+    <title>0 contributions on Sunday, Apr 26, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(660,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-27"
+    />
+    <title>0 contributions on Monday, Apr 27, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(660,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-28"
+    />
+    <title>0 contributions on Tuesday, Apr 28, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(660,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-29"
+    />
+    <title>0 contributions on Wednesday, Apr 29, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(660,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-04-30"
+    />
+    <title>0 contributions on Thursday, Apr 30, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(660,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-01"
+    />
+    <title>0 contributions on Friday, May 1, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(660,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-02"
+    />
+    <title>0 contributions on Saturday, May 2, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(674,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-03"
+    />
+    <title>0 contributions on Sunday, May 3, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(674,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-04"
+    />
+    <title>0 contributions on Monday, May 4, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(674,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-05"
+    />
+    <title>0 contributions on Tuesday, May 5, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(674,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-06"
+    />
+    <title>0 contributions on Wednesday, May 6, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(674,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-07"
+    />
+    <title>0 contributions on Thursday, May 7, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(674,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-08"
+    />
+    <title>0 contributions on Friday, May 8, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(674,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-09"
+    />
+    <title>0 contributions on Saturday, May 9, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(688,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-10"
+    />
+    <title>0 contributions on Sunday, May 10, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(688,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-11"
+    />
+    <title>0 contributions on Monday, May 11, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(688,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-12"
+    />
+    <title>0 contributions on Tuesday, May 12, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(688,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-13"
+    />
+    <title>0 contributions on Wednesday, May 13, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(688,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-14"
+    />
+    <title>0 contributions on Thursday, May 14, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(688,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-15"
+    />
+    <title>0 contributions on Friday, May 15, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(688,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-16"
+    />
+    <title>0 contributions on Saturday, May 16, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(702,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-17"
+    />
+    <title>0 contributions on Sunday, May 17, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(702,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-18"
+    />
+    <title>0 contributions on Monday, May 18, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(702,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-19"
+    />
+    <title>0 contributions on Tuesday, May 19, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(702,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-20"
+    />
+    <title>0 contributions on Wednesday, May 20, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(702,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-21"
+    />
+    <title>0 contributions on Thursday, May 21, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(702,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-22"
+    />
+    <title>0 contributions on Friday, May 22, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(702,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-23"
+    />
+    <title>0 contributions on Saturday, May 23, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(716,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-24"
+    />
+    <title>0 contributions on Sunday, May 24, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(716,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-25"
+    />
+    <title>0 contributions on Monday, May 25, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(716,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-26"
+    />
+    <title>0 contributions on Tuesday, May 26, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(716,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-27"
+    />
+    <title>0 contributions on Wednesday, May 27, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(716,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-28"
+    />
+    <title>0 contributions on Thursday, May 28, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(716,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-29"
+    />
+    <title>0 contributions on Friday, May 29, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(716,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-30"
+    />
+    <title>0 contributions on Saturday, May 30, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(730,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-05-31"
+    />
+    <title>0 contributions on Sunday, May 31, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(730,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-01"
+    />
+    <title>0 contributions on Monday, Jun 1, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(730,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-02"
+    />
+    <title>0 contributions on Tuesday, Jun 2, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(730,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-03"
+    />
+    <title>0 contributions on Wednesday, Jun 3, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(730,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-04"
+    />
+    <title>0 contributions on Thursday, Jun 4, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(730,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-05"
+    />
+    <title>0 contributions on Friday, Jun 5, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(730,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-06"
+    />
+    <title>0 contributions on Saturday, Jun 6, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(744,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-07"
+    />
+    <title>0 contributions on Sunday, Jun 7, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(744,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-08"
+    />
+    <title>0 contributions on Monday, Jun 8, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(744,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-09"
+    />
+    <title>0 contributions on Tuesday, Jun 9, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(744,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-10"
+    />
+    <title>0 contributions on Wednesday, Jun 10, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(744,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-11"
+    />
+    <title>0 contributions on Thursday, Jun 11, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(744,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-12"
+    />
+    <title>0 contributions on Friday, Jun 12, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(744,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-13"
+    />
+    <title>0 contributions on Saturday, Jun 13, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(758,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-14"
+    />
+    <title>0 contributions on Sunday, Jun 14, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(758,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-15"
+    />
+    <title>0 contributions on Monday, Jun 15, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(758,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-16"
+    />
+    <title>0 contributions on Tuesday, Jun 16, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(758,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#40c463"
+      stroke="none"
+      stroke-width="1"
+      data-count="3"
+      data-date="2026-06-17"
+    />
+    <title>3 contributions on Wednesday, Jun 17, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(758,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#30a14e"
+      stroke="none"
+      stroke-width="1"
+      data-count="6"
+      data-date="2026-06-18"
+    />
+    <title>6 contributions on Thursday, Jun 18, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(758,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#216e39"
+      stroke="none"
+      stroke-width="1"
+      data-count="60"
+      data-date="2026-06-19"
+    />
+    <title>60 contributions on Friday, Jun 19, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(758,154)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#40c463"
+      stroke="none"
+      stroke-width="1"
+      data-count="3"
+      data-date="2026-06-20"
+    />
+    <title>3 contributions on Saturday, Jun 20, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(772,70)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#9be9a8"
+      stroke="none"
+      stroke-width="1"
+      data-count="1"
+      data-date="2026-06-21"
+    />
+    <title>1 contribution on Sunday, Jun 21, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(772,84)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-22"
+    />
+    <title>0 contributions on Monday, Jun 22, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(772,98)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-23"
+    />
+    <title>0 contributions on Tuesday, Jun 23, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(772,112)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-24"
+    />
+    <title>0 contributions on Wednesday, Jun 24, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(772,126)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#161b22"
+      stroke="rgba(240,246,252,0.06)"
+      stroke-width="1"
+      data-count="0"
+      data-date="2026-06-25"
+    />
+    <title>0 contributions on Thursday, Jun 25, 2026</title>
+  </g>
+  <g class="contribution-cell-8n3gcx" transform="translate(772,140)">
+    <rect
+      width="11"
+      height="11"
+      rx="2"
+      ry="2"
+      fill="#30a14e"
+      stroke="none"
+      stroke-width="1"
+      data-count="6"
+      data-date="2026-06-26"
+    />
+    <title>6 contributions on Friday, Jun 26, 2026</title>
+  </g>
+  <!-- Stats -->
+  
+  <text x="16" y="183" font-size="11" fill="#58a6ff" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    172 contributions
+  </text>
+  <text x="16" y="199" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    150 commits · 0 PRs · 0 issues · 0 reviews
+  </text>
+  <text x="783" y="199" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="end">
+    Updated Jun 26, 2026
+  </text>
+  <!-- Legend -->
+  
+  <text x="689" y="192" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="end">Less</text>
+  <rect x="693" y="182" width="11" height="11" rx="2" fill="#9be9a8"/><rect x="707" y="182" width="11" height="11" rx="2" fill="#40c463"/><rect x="721" y="182" width="11" height="11" rx="2" fill="#30a14e"/><rect x="735" y="182" width="11" height="11" rx="2" fill="#216e39"/>
+  <text x="751" y="192" font-size="10" fill="#7d8590" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">More</text>
+</svg>

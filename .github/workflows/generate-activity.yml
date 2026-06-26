@@ -72,10 +72,12 @@ jobs:
 
       # ── 5. Commit and push ────────────────────────────────────────────────────
       - name: Commit and push updated SVG
+        env:
+          GH_PRIVATE_TOKEN: ${{ secrets.GH_PRIVATE_TOKEN }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PRIVATE_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://x-access-token:${GH_PRIVATE_TOKEN}@github.com/${{ github.repository }}.git
           git add output/
           if git diff --cached --quiet; then
             echo "No changes to commit."
