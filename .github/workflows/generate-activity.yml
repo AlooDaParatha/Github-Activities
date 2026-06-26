@@ -47,7 +47,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
           cache: "npm"
 
       # ── 3. Install dependencies ──────────────────────────────────────────────
@@ -75,12 +75,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PRIVATE_TOKEN }}@github.com/${{ github.repository }}.git
           git add output/
-
-          # Only commit if something changed
           if git diff --cached --quiet; then
-            echo "No changes to commit — graph is already up to date."
+            echo "No changes to commit."
           else
             TODAY=$(date -u +"%Y-%m-%d")
             git commit -m "chore: update activity graph [${TODAY}]"
