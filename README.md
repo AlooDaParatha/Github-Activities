@@ -1,305 +1,348 @@
-# GitHub Activity Graph — Self-Hosted
+cat > /mnt/user-data/outputs/README.md << 'EOFILE'
+<div align="center">
 
-A self-hosted GitHub contribution graph that includes **private contributions**, auto-updates daily via GitHub Actions, and outputs an embeddable SVG.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:2cb67d,100:58a6ff&height=140&section=header&text=Activity%20Graph&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Self-hosted%20%C2%B7%20Private%20Contributions%20%C2%B7%20Line%20Graph%20%C2%B7%20Auto-Updates&descAlignY=58&descSize=16" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output/activity-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./output/activity-light.svg">
-    <img alt="GitHub Contribution Graph" src="./output/activity.svg">
-  </picture>
-</p>
+<br/>
 
----
+[![Node.js](https://img.shields.io/badge/Node.js-22+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![GitHub Actions](https://img.shields.io/badge/Auto_Updates-Daily-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![GraphQL](https://img.shields.io/badge/GraphQL_API-Private_Contribs-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://docs.github.com/en/graphql)
+[![License](https://img.shields.io/badge/License-MIT-7f5af0?style=for-the-badge)](LICENSE)
+[![Zero External Services](https://img.shields.io/badge/External_Services-Zero-2cb67d?style=for-the-badge)](https://github.com)
 
-## ✨ Features
+<br/>
 
-| Feature | Details |
-|---|---|
-| **Private contributions** | Uses GitHub GraphQL API with `read:user` scope — same data as your profile page |
-| **Privacy-safe** | Only contribution counts and colors are stored. No repo names, no metadata |
-| **Themes** | `dark`, `light`, `cyberpunk`, `high-contrast` |
-| **Dark/light switching** | `<picture>` element auto-switches based on viewer's OS theme |
-| **Auto-updates** | GitHub Actions workflow runs every day at 01:00 UTC |
-| **Stats bar** | Shows total, commits, PRs, issues, reviews, and private count |
-| **Tooltips** | Native SVG `<title>` tooltips on every cell |
-| **No external services** | 100% self-hosted, open source, free |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-light.svg?v=2">
+  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity.svg?v=2" width="100%">
+</picture>
 
----
+<sub>☝️ Live graph — regenerated every day at 01:00 UTC by GitHub Actions</sub>
 
-## 📋 Prerequisites
+<br/><br/>
 
-- A GitHub account
-- A repository (can be your `username/username` profile repo, or any public repo)
-- Node.js 18+ (only needed for local development)
+</div>
 
 ---
 
-## 🚀 Setup Guide
+## What is this?
 
-### Step 1 — Fork or clone this repository
+**Activity Graph** is a fully self-hosted GitHub contribution graph that you own completely. It fetches your real contribution data — including private contributions — directly from the GitHub GraphQL API, renders a smooth animated line graph as an SVG, and commits it back to your repository automatically every day.
 
-```bash
-# Option A: use as a template / fork on GitHub
-
-# Option B: clone and push to a new repo
-git clone https://github.com/YOUR_USERNAME/github-activity-graph.git
-cd github-activity-graph
-```
-
-If you want the graph in your **profile README**, the repo must be named `YOUR_USERNAME/YOUR_USERNAME`.
+No third-party servers. No rate limits. No outages. No vendor lock-in. Just a clean SVG on GitHub's own CDN.
 
 ---
 
-### Step 2 — Create a Personal Access Token
+## Features
 
-You need a GitHub PAT that can read your contribution data, including private contributions.
+<table>
+<tr>
+<td width="50%">
 
-1. Go to **GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)**
-   Direct link: https://github.com/settings/tokens
+**📈 Smooth Line Graph**
+Catmull-Rom curved line with gradient area fill underneath. 7-day rolling average for a clean, readable shape. Peak dots automatically appear on your highest activity days.
 
-2. Click **Generate new token (classic)**
+**🔒 Private Contributions Included**
+Uses the `contributionsCollection` GraphQL field — exactly what GitHub's own profile page uses. Private commit counts are included but fully anonymized. No repo names, no metadata, ever.
 
-3. Set the note to something like `activity-graph`
+**🎨 4 Themes**
+`dark` · `light` · `cyberpunk` · `high-contrast`
+Auto-switches between dark and light based on the viewer's system theme using the `<picture>` element.
 
-4. Set expiration — choose **No expiration** for a set-and-forget setup, or a date and remember to rotate it
+</td>
+<td width="50%">
 
-5. Under **Select scopes**, check **only these**:
+**⚡ Zero Infrastructure**
+Runs entirely on GitHub Actions. No server, no database, no container, no external API keys beyond your own GitHub token. The output is a static SVG served by GitHub's CDN.
 
-   | Scope | Why |
-   |---|---|
-   | `read:user` | Reads your contribution calendar, including private contributions |
+**📅 Configurable Date Range**
+Show the last 30 days, 90 days, or up to 5 years. Set via the `DAYS` environment variable — no code changes needed.
 
-   > ⚠️ Do **not** add `repo`, `write:*`, or any other scopes. `read:user` is all that's needed.
+**🔁 Fully Automatic**
+Cron job runs at 01:00 UTC every day. Also triggers on pushes to `main` and can be run manually anytime from the Actions tab.
 
-6. Click **Generate token** and **copy it immediately** — you won't see it again
-
----
-
-### Step 3 — Add the token as a GitHub Secret
-
-The token must be stored as a repository secret so the Action can use it securely.
-
-1. Go to your repository on GitHub
-2. Click **Settings → Secrets and variables → Actions**
-3. Click **New repository secret**
-4. Set:
-   - **Name:** `GH_PRIVATE_TOKEN`
-   - **Value:** paste the token you just created
-5. Click **Add secret**
-
-> The token is encrypted by GitHub and never exposed in logs.
+</td>
+</tr>
+</table>
 
 ---
 
-### Step 4 — (Optional) Set your username as a variable
+## Themes
 
-The workflow automatically uses `github.repository_owner` (the repo owner's username), so this step is only needed if you want to generate a graph for a **different** GitHub user.
-
-1. Go to **Settings → Secrets and variables → Actions → Variables tab**
-2. Click **New repository variable**
-3. Set:
-   - **Name:** `GITHUB_USERNAME`
-   - **Value:** your GitHub username
-4. Click **Add variable**
-
----
-
-### Step 5 — Enable GitHub Actions
-
-1. Go to your repository's **Actions** tab
-2. If prompted, click **I understand my workflows, go ahead and enable them**
-3. Go to **Settings → Actions → General → Workflow permissions**
-4. Select **Read and write permissions**
-5. Click **Save**
-
-> This is required so the Action can commit the generated SVG back to the repository.
+<table>
+<tr>
+<th align="center">🌙 dark</th>
+<th align="center">☀️ light</th>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-dark.svg?v=2" alt="dark"/></td>
+<td><img src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-light.svg?v=2" alt="light"/></td>
+</tr>
+<tr>
+<th align="center">⚡ cyberpunk</th>
+<th align="center">🔳 high-contrast</th>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-cyberpunk.svg?v=2" alt="cyberpunk"/></td>
+<td><img src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-high-contrast.svg?v=2" alt="high-contrast"/></td>
+</tr>
+</table>
 
 ---
 
-### Step 6 — Run the workflow manually (first time)
-
-The workflow runs automatically every day, but you can trigger it immediately:
-
-1. Go to **Actions → Generate Activity Graph**
-2. Click **Run workflow** (top right)
-3. Choose a theme (or leave as `all` to generate every theme)
-4. Click **Run workflow**
-
-After ~30 seconds, a new commit will appear in your repo with the updated SVGs in `output/`.
-
----
-
-### Step 7 — Add the graph to your README
-
-**Basic (single theme):**
-```html
-<p align="center">
-  <img src="./output/activity.svg" alt="GitHub Contribution Graph">
-</p>
-```
-
-**With automatic dark/light theme switching (recommended):**
-```html
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output/activity-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./output/activity-light.svg">
-    <img alt="GitHub Contribution Graph" src="./output/activity.svg">
-  </picture>
-</p>
-```
-
-**Cyberpunk theme:**
-```html
-<p align="center">
-  <img src="./output/activity-cyberpunk.svg" alt="GitHub Contribution Graph">
-</p>
-```
-
-If the graph is in a **different repository** (not your profile repo), use the raw URL:
-```html
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/github-activity-graph/main/output/activity.svg">
-```
-
----
-
-## 🎨 Themes
-
-| Name | Description |
-|---|---|
-| `dark` | GitHub dark mode palette (default) |
-| `light` | GitHub light mode palette |
-| `cyberpunk` | Neon purple/cyan with animated glow |
-| `high-contrast` | GitHub high-contrast accessibility theme |
-
-To generate a specific theme locally:
-```bash
-THEME=cyberpunk npm run generate
-```
-
-To generate all themes:
-```bash
-npm run generate:all
-```
-
----
-
-## 🛠 Local Development
-
-```bash
-# Install dependencies
-npm install
-
-# Copy and fill in your credentials
-cp .env.example .env
-# Edit .env: set GITHUB_USERNAME and GH_PRIVATE_TOKEN
-
-# Generate with default (dark) theme
-npm run generate
-
-# Generate all themes
-npm run generate:all
-
-# Generate a specific theme
-THEME=cyberpunk npm run generate
-THEME=light npm run generate
-```
-
-`.env.example`:
-```
-GITHUB_USERNAME=your-github-username
-GH_PRIVATE_TOKEN=ghp_xxxxxxxxxxxxxxxxxxxx
-THEME=dark
-YEARS=1
-```
-
----
-
-## ⚙️ Configuration
-
-All configuration is done via environment variables:
-
-| Variable | Default | Description |
-|---|---|---|
-| `GITHUB_USERNAME` | repo owner | GitHub username to generate graph for |
-| `GH_PRIVATE_TOKEN` | — | PAT with `read:user` scope (required) |
-| `THEME` | `dark` | `dark`, `light`, `cyberpunk`, `high-contrast`, or `all` |
-| `YEARS` | `1` | Years of contribution history (1–5) |
-
----
-
-## 🔒 Privacy Model
-
-This tool mirrors **exactly** what GitHub shows on your public profile page:
-
-- The GitHub GraphQL `contributionCalendar` field returns contribution **counts and colors** only
-- Private repository names, commit messages, PR titles, and all metadata are **never returned**
-- When `restrictedContributionsCount > 0`, it means private contributions are included in the total but remain **completely anonymous**
-- The SVG stores only contribution counts, dates, and colors — nothing else
-
-This is the same privacy model GitHub itself uses for the "Include private contributions on my profile" setting.
-
----
-
-## 🔧 Troubleshooting
-
-### The SVG is empty / no cells filled
-- Check that `GH_PRIVATE_TOKEN` is set correctly in repository secrets
-- Verify the token has `read:user` scope (not just `repo`)
-- Check the Actions log for the exact error message
-
-### Private contributions are not showing
-- Go to **GitHub profile → Edit profile → "Include private contributions on my profile"**
-- Make sure this setting is **enabled** on your GitHub profile — the API respects this setting
-
-### Workflow fails with "Resource not accessible by integration"
-- Go to **Settings → Actions → General → Workflow permissions**
-- Change to **Read and write permissions** and save
-
-### Workflow fails with "HTTP 401"
-- The token has expired or was revoked
-- Create a new token and update the `GH_PRIVATE_TOKEN` secret
-
-### The SVG is not updating in the README
-- GitHub caches raw SVG files. Try appending `?v=1` or wait a few minutes
-- Make sure the `output/` folder is committed (check `.gitignore`)
-- Confirm the workflow ran successfully in the Actions tab
-
-### "User not found" error
-- Verify `GITHUB_USERNAME` matches your exact GitHub username (case-sensitive)
-- Make sure the token belongs to that user account
-
-### Workflow runs but SVG looks wrong
-- Run locally with `DEBUG=1 npm run generate` to see the full stack trace
-- Check that Node.js 18+ is installed: `node --version`
-
----
-
-## 📁 Project Structure
+## Project Structure
 
 ```
-.
+Github-Activities/
 ├── .github/
 │   └── workflows/
-│       └── generate-activity.yml   # Daily GitHub Actions workflow
+│       └── generate-activity.yml   ← Daily cron + manual trigger
 ├── scripts/
-│   ├── fetchContributions.js       # GitHub GraphQL API client
-│   ├── generateSvg.js              # SVG renderer (all themes)
-│   ├── generateAllThemes.js        # Batch generator for all themes
-│   └── index.js                    # Entry point
+│   ├── fetchContributions.js       ← GitHub GraphQL API (private contribs included)
+│   ├── generateSvg.js              ← Line graph SVG renderer, all 4 themes
+│   ├── generateAllThemes.js        ← Generates every theme in one run
+│   └── index.js                    ← Entry point
 ├── output/
-│   ├── activity.svg                # Default (dark) graph — auto-generated
-│   ├── activity-dark.svg           # Dark theme
-│   ├── activity-light.svg          # Light theme
-│   ├── activity-cyberpunk.svg      # Cyberpunk / neon theme
-│   └── activity-high-contrast.svg  # High-contrast theme
+│   ├── activity.svg                ← Default (dark) — auto-committed daily
+│   ├── activity-dark.svg
+│   ├── activity-light.svg
+│   ├── activity-cyberpunk.svg
+│   ├── activity-high-contrast.svg
+│   └── picture-snippet.html        ← Ready-to-paste embed code
+├── .env.example
 ├── package.json
 └── README.md
 ```
 
 ---
 
-## 🙏 License
+## Setup Guide
 
-MIT — free to use, modify, and self-host.
+### Step 1 — Fork or clone
+
+```bash
+git clone https://github.com/AlooDaParatha/Github-Activities.git
+cd Github-Activities
+npm install
+```
+
+---
+
+### Step 2 — Create a Personal Access Token
+
+Go to **[github.com/settings/tokens](https://github.com/settings/tokens)** → **Generate new token (classic)**
+
+Check these scopes:
+
+| Scope | Why |
+|---|---|
+| `repo` | Needed to push the generated SVG back to your repository |
+| `read:user` | Reads your contribution calendar including private contributions |
+
+Set expiration to **No expiration** for set-and-forget. Click **Generate token** and copy it immediately.
+
+> ⚠️ Never paste your token anywhere except the GitHub Secrets field. Not in code, not in chat, not in commits.
+
+---
+
+### Step 3 — Add as a GitHub Secret
+
+Repo → **Settings → Secrets and variables → Actions → New repository secret**
+
+```
+Name:  GH_PRIVATE_TOKEN
+Value: ghp_xxxxxxxxxxxxxxxxxxxx
+```
+
+---
+
+### Step 4 — Set workflow permissions
+
+Repo → **Settings → Actions → General → Workflow permissions**
+
+Select **Read and write permissions** → Save
+
+This allows the Action to commit and push the generated SVG back to your repo.
+
+---
+
+### Step 5 — Run the workflow
+
+**Actions → Generate Activity Graph → Run workflow → Run workflow**
+
+After ~30 seconds a new commit will appear in your repo with all SVG files in `output/`.
+
+---
+
+### Step 6 — Embed in any README
+
+**Auto dark/light switching (recommended):**
+
+```html
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-light.svg?v=2">
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity.svg?v=2">
+  </picture>
+</p>
+```
+
+**Single theme:**
+```html
+<img src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/activity-cyberpunk.svg?v=2">
+```
+
+**Same repo (relative path):**
+```html
+<img src="./output/activity-dark.svg">
+```
+
+> 💡 Bump `?v=2` to `?v=3` anytime you want to force GitHub's cache to refresh.
+
+---
+
+## Configuration
+
+All options are set via environment variables — no code changes needed.
+
+| Variable | Default | Description |
+|---|---|---|
+| `GITHUB_USERNAME` | repo owner | GitHub username to generate graph for |
+| `GH_PRIVATE_TOKEN` | — | Classic PAT with `repo` + `read:user` scopes |
+| `THEME` | `dark` | `dark` · `light` · `cyberpunk` · `high-contrast` · `all` |
+| `DAYS` | `30` | Days of history to show (e.g. 30, 90, 365) |
+
+Set these in the workflow file or in your local `.env` for development.
+
+---
+
+## Local Development
+
+```bash
+# Clone and install
+git clone https://github.com/AlooDaParatha/Github-Activities.git
+cd Github-Activities
+npm install
+
+# Set up credentials
+cp .env.example .env
+# Edit .env with your GITHUB_USERNAME and GH_PRIVATE_TOKEN
+
+# Generate with default theme (dark, last 30 days)
+npm run generate
+
+# Generate all 4 themes at once
+npm run generate:all
+
+# Specific theme
+THEME=cyberpunk npm run generate
+THEME=light     npm run generate
+
+# Custom date range
+DAYS=90  npm run generate
+DAYS=365 npm run generate
+```
+
+---
+
+## Changing the Date Range
+
+To show a different time window, edit `scripts/fetchContributions.js`:
+
+**Last 30 days (default):**
+```js
+const DAYS = parseInt(process.env.DAYS || "30", 10);
+const from = new Date(now.getTime() - DAYS * 24 * 60 * 60 * 1000).toISOString();
+```
+
+**Or set it in the workflow without touching code:**
+```yaml
+env:
+  DAYS: "90"
+```
+
+---
+
+## Troubleshooting
+
+**Graph not updating in README**
+GitHub caches images hard. Bump the `?v=` number in your embed URL (`?v=2` → `?v=3`) and hard refresh with `Ctrl+Shift+R`.
+
+**Workflow fails: exit code 128 / permission denied**
+Go to Settings → Actions → General → Workflow permissions → set to **Read and write**.
+
+**Workflow fails: HTTP 401 or 403**
+Your token expired or was revoked. Generate a new one at `github.com/settings/tokens` and update the `GH_PRIVATE_TOKEN` secret.
+
+**Private contributions not showing**
+Enable **"Include private contributions on my profile"** in your [GitHub profile settings](https://github.com/settings/profile). The API respects this toggle.
+
+**"User not found" error**
+`GITHUB_USERNAME` must match your exact GitHub handle — it is case-sensitive.
+
+**Workflow stopped running automatically**
+GitHub disables scheduled workflows after 60 days of repo inactivity. Re-enable from the Actions tab when prompted.
+
+**SVG looks correct on raw URL but README shows old version**
+This is purely a cache issue. Add or bump `?v=N` to the srcset URLs in your README.
+
+---
+
+## Privacy Model
+
+| What's fetched | What's stored in SVG |
+|---|---|
+| Contribution counts per day | ✅ Yes — counts and dates only |
+| Contribution colors | ✅ Yes — anonymous intensity levels |
+| Private repo names | ❌ Never — structurally absent from API response |
+| Commit messages | ❌ Never |
+| PR or issue titles | ❌ Never |
+| Any private metadata | ❌ Never |
+
+The GitHub GraphQL `contributionCalendar` field returns the same anonymized data that appears on your public profile. Private contributions are counted but never identified.
+
+---
+
+## How It Works
+
+```
+Every day at 01:00 UTC
+         │
+         ▼
+  GitHub Actions triggers
+         │
+         ▼
+  fetchContributions.js
+  └─ GraphQL query to api.github.com
+  └─ Returns counts + colors (no private metadata)
+         │
+         ▼
+  generateSvg.js
+  └─ 7-day rolling average
+  └─ Catmull-Rom smooth curve
+  └─ Gradient area fill
+  └─ Peak dots on high days
+  └─ Month labels + stats bar
+  └─ Renders all 4 theme SVGs
+         │
+         ▼
+  git commit + push → output/
+         │
+         ▼
+  README updates via raw.githubusercontent.com CDN
+```
+
+---
+
+<div align="center">
+
+**MIT License · No external services · Built on the GitHub GraphQL API**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:2cb67d,100:7f5af0&height=100&section=footer" />
+
+</div>
