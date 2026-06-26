@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'EOFILE'
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:2cb67d,100:58a6ff&height=140&section=header&text=Activity%20Graph&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Self-hosted%20%C2%B7%20Private%20Contributions%20%C2%B7%20Line%20Graph%20%C2%B7%20Auto-Updates&descAlignY=58&descSize=16" />
