@@ -1,0 +1,89 @@
+name: Generate Activity Graph
+
+on:
+  # ── Run every day at 01:00 UTC (after GitHub's daily rollover) ──
+  schedule:
+    - cron: "0 1 * * *"
+
+  # ── Manual trigger from Actions tab ──
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: "SVG theme (dark | light | cyberpunk | high-contrast | all)"
+        required: false
+        default: "all"
+      years:
+        description: "Years of history to fetch (1–5)"
+        required: false
+        default: "1"
+
+  # ── Also regenerate on pushes to main (useful after config edits) ──
+  push:
+    branches: [main, master]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/generate-activity.yml"
+      - "package.json"
+
+permissions:
+  contents: write   # needed to commit & push the SVG back
+
+jobs:
+  generate:
+    name: Generate contribution graph
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use a token that can push back to the repo.
+          # GITHUB_TOKEN works when Actions has "Read and write" permission.
+          token: ${{ secrets.GH_PRIVATE_TOKEN }}
+          fetch-depth: 1
+
+      # ── 2. Set up Node.js ─────────────────────────────────────────────────────
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      # ── 3. Install dependencies ──────────────────────────────────────────────
+      - name: Install dependencies
+        run: npm ci
+
+      # ── 4. Generate SVGs ──────────────────────────────────────────────────────
+      - name: Generate contribution graphs
+        env:
+          GH_PRIVATE_TOKEN: ${{ secrets.GH_PRIVATE_TOKEN }}
+          # GITHUB_ACTOR is the authenticated user — no need to hardcode username
+          GITHUB_USERNAME: ${{ vars.GITHUB_USERNAME || github.repository_owner }}
+          THEME: ${{ github.event.inputs.theme || 'all' }}
+          YEARS: ${{ github.event.inputs.years || '1' }}
+        run: |
+          echo "Generating for @$GITHUB_USERNAME with theme=$THEME years=$YEARS"
+          if [ "$THEME" = "all" ]; then
+            npm run generate:all
+          else
+            THEME=$THEME npm run generate
+          fi
+
+      # ── 5. Commit and push ────────────────────────────────────────────────────
+      - name: Commit and push updated SVG
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add output/
+
+          # Only commit if something changed
+          if git diff --cached --quiet; then
+            echo "No changes to commit — graph is already up to date."
+          else
+            TODAY=$(date -u +"%Y-%m-%d")
+            git commit -m "chore: update activity graph [${TODAY}]"
+            git push
+            echo "✅ SVG committed and pushed."
+          fi

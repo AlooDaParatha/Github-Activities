@@ -1,0 +1,28 @@
+{
+  "name": "github-activity-graph",
+  "version": "1.0.0",
+  "description": "Self-hosted GitHub contribution graph with private contributions support",
+  "main": "scripts/index.js",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/index.js",
+    "generate:dark": "THEME=dark node scripts/index.js",
+    "generate:cyberpunk": "THEME=cyberpunk node scripts/index.js",
+    "generate:all": "node scripts/generateAllThemes.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "github",
+    "contribution",
+    "graph",
+    "activity",
+    "svg",
+    "readme"
+  ],
+  "license": "MIT"
+}
