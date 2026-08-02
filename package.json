@@ -8,7 +8,10 @@
     "generate": "node scripts/index.js",
     "generate:dark": "THEME=dark node scripts/index.js",
     "generate:cyberpunk": "THEME=cyberpunk node scripts/index.js",
-    "generate:all": "node scripts/generateAllThemes.js"
+    "generate:all": "node scripts/generateAllThemes.js",
+    "projects": "node scripts/generateProjects.js",
+    "projects:dark": "THEME=dark node scripts/generateProjects.js",
+    "projects:cyberpunk": "THEME=cyberpunk node scripts/generateProjects.js"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
@@ -22,7 +25,9 @@
     "graph",
     "activity",
     "svg",
-    "readme"
+    "readme",
+    "projects",
+    "pinned-repos"
   ],
   "license": "MIT"
 }

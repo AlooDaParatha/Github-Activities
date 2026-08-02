@@ -16,6 +16,10 @@ on:
         description: "Years of history to fetch (1–5)"
         required: false
         default: "1"
+      max_projects:
+        description: "Max project cards to show (1–12)"
+        required: false
+        default: "6"
 
   # ── Also regenerate on pushes to main (useful after config edits) ──
   push:
@@ -55,19 +59,21 @@ jobs:
         run: npm ci
 
       # ── 4. Generate SVGs ──────────────────────────────────────────────────────
-      - name: Generate contribution graphs
+      - name: Generate contribution graphs and project showcase
         env:
           GH_PRIVATE_TOKEN: ${{ secrets.GH_PRIVATE_TOKEN }}
           # GITHUB_ACTOR is the authenticated user — no need to hardcode username
           GITHUB_USERNAME: ${{ vars.GITHUB_USERNAME || github.repository_owner }}
           THEME: ${{ github.event.inputs.theme || 'all' }}
           YEARS: ${{ github.event.inputs.years || '1' }}
+          MAX_PROJECTS: ${{ github.event.inputs.max_projects || '6' }}
         run: |
-          echo "Generating for @$GITHUB_USERNAME with theme=$THEME years=$YEARS"
+          echo "Generating for @$GITHUB_USERNAME with theme=$THEME years=$YEARS max_projects=$MAX_PROJECTS"
           if [ "$THEME" = "all" ]; then
             npm run generate:all
           else
             THEME=$THEME npm run generate
+            THEME=$THEME npm run projects
           fi
 
       # ── 5. Commit and push ────────────────────────────────────────────────────
@@ -83,7 +89,7 @@ jobs:
             echo "No changes to commit."
           else
             TODAY=$(date -u +"%Y-%m-%d")
-            git commit -m "chore: update activity graph [${TODAY}]"
+            git commit -m "chore: update activity graph and project showcase [${TODAY}]"
             git push
             echo "✅ SVG committed and pushed."
           fi

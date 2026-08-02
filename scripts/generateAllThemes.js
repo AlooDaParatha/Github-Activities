@@ -9,14 +9,19 @@ import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import { fetchContributions } from "./fetchContributions.js";
 import { generateSvg, generatePictureSnippet, THEMES } from "./generateSvg.js";
+import { fetchProjects } from "./fetchProjects.js";
+import { generateProjectsSvg } from "./generateProjectsSvg.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 const OUTPUT_DIR = join(ROOT, "output");
 
 const USERNAME = process.env.GITHUB_USERNAME || process.env.GITHUB_ACTOR;
-const TOKEN    = process.env.GH_PRIVATE_TOKEN;
-const YEARS    = parseInt(process.env.YEARS || "1", 10);
+const TOKEN = process.env.GH_PRIVATE_TOKEN;
+const YEARS = parseInt(process.env.YEARS || "1", 10);
+const MAX_PROJECTS = parseInt(process.env.MAX_PROJECTS || "6", 10);
+// Set SKIP_PROJECTS=true to only regenerate the activity graph
+const INCLUDE_PROJECTS = process.env.SKIP_PROJECTS !== "true";
 
 if (!USERNAME || !TOKEN) {
   console.error("❌ GITHUB_USERNAME and GH_PRIVATE_TOKEN must be set.");
@@ -50,6 +55,26 @@ async function main() {
   );
   writeFileSync(join(OUTPUT_DIR, "picture-snippet.html"), snippet, "utf8");
   console.log("✓ output/picture-snippet.html");
+
+  // ── Project showcase ──
+  if (INCLUDE_PROJECTS) {
+    console.log("\n🗂️  Generating project showcase…\n");
+    const projectData = await fetchProjects(USERNAME, TOKEN, MAX_PROJECTS);
+
+    for (const [name] of Object.entries(THEMES)) {
+      const svg = generateProjectsSvg(projectData, { theme: name });
+      const path = join(OUTPUT_DIR, `projects-${name}.svg`);
+      writeFileSync(path, svg, "utf8");
+      console.log(`✓ output/projects-${name}.svg`);
+    }
+
+    // Default (dark) as projects.svg for README backwards compat
+    const defaultProjectsSvg = generateProjectsSvg(projectData, { theme: "dark" });
+    writeFileSync(join(OUTPUT_DIR, "projects.svg"), defaultProjectsSvg, "utf8");
+    console.log("✓ output/projects.svg (dark, default)");
+  } else {
+    console.log("\n⏭️  Skipping project showcase (SKIP_PROJECTS=true).");
+  }
 
   console.log("\n✅ All themes generated.");
 }
