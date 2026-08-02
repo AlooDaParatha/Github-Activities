@@ -1,0 +1,217 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="800" height="442"
+  viewBox="0 0 800 442"
+  role="img"
+  aria-label="AlooDaParatha's pinned GitHub projects"
+>
+  <rect width="800" height="442" rx="6" fill="#ffffff"/>
+
+  <text x="20" y="28" font-size="14" font-weight="600" fill="#1f2328"
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">AlooDaParatha's Projects</text>
+
+  
+  <a href="https://github.com/AlooDaParatha/CropLynk" target="_blank">
+  <g>
+    <rect x="20" y="44" width="373" height="108" rx="8"
+          fill="#f6f8fa" stroke="rgba(27,31,35,0.5)" stroke-width="1"/>
+
+    <!-- repo name -->
+    <g fill="#1f2328">
+      <path d="M6.5 3H3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9.5M9 2h5v5M13.5 2.5l-6 6" fill="none" transform="translate(34,56) scale(0.85)" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="52" y="68" font-size="13" font-weight="600"
+          fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">CropLynk</text>
+
+    <!-- description (up to 2 lines) -->
+    
+    <text x="34" y="88" font-size="11"
+          fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">CropLynk is a farmer-focused platform providing real-time</text>
+    <text x="34" y="103" font-size="11"
+          fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">weather updates, AI-based crop advice, and direct marke…</text>
+
+    <!-- language pill -->
+    
+    <circle cx="38" cy="136" r="5" fill="#f1e05a"/>
+    <text x="48" y="140" font-size="10.5" fill="#57606a"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">JavaScript</text>
+
+    <!-- stats -->
+    <g transform="translate(275, 133)" fill="#57606a">
+      <path d="M8 .5l2.245 4.55 5.02.73-3.632 3.54.857 5-4.49-2.36-4.49 2.36.857-5L.735 5.78l5.02-.73z"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">2</text>
+    </g>
+    <g transform="translate(337, 133)" fill="#57606a">
+      <path d="M5 3.25a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0zm0 0v1.5a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-1.5m0 0a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 0 0-2.5 0zM8 6.75V9.5a2 2 0 0 1-2 2H4.75m0 0a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0z" fill="none" stroke="currentColor" stroke-width="1"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">0</text>
+    </g>
+  </g>
+  </a>
+  <a href="https://github.com/AlooDaParatha/Manage-Mars" target="_blank">
+  <g>
+    <rect x="407" y="44" width="373" height="108" rx="8"
+          fill="#f6f8fa" stroke="rgba(27,31,35,0.5)" stroke-width="1"/>
+
+    <!-- repo name -->
+    <g fill="#1f2328">
+      <path d="M6.5 3H3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9.5M9 2h5v5M13.5 2.5l-6 6" fill="none" transform="translate(421,56) scale(0.85)" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="439" y="68" font-size="13" font-weight="600"
+          fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Manage-Mars</text>
+
+    <!-- description (up to 2 lines) -->
+    
+    <text x="421" y="88" font-size="11"
+          fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Manage-Mars is an AI-powered waste classification system</text>
+    <text x="421" y="103" font-size="11"
+          fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">built using TensorFlow, OpenCV, and Python that classifie…</text>
+
+    <!-- language pill -->
+    
+    <circle cx="425" cy="136" r="5" fill="#3572A5"/>
+    <text x="435" y="140" font-size="10.5" fill="#57606a"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Python</text>
+
+    <!-- stats -->
+    <g transform="translate(662, 133)" fill="#57606a">
+      <path d="M8 .5l2.245 4.55 5.02.73-3.632 3.54.857 5-4.49-2.36-4.49 2.36.857-5L.735 5.78l5.02-.73z"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">1</text>
+    </g>
+    <g transform="translate(724, 133)" fill="#57606a">
+      <path d="M5 3.25a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0zm0 0v1.5a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-1.5m0 0a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 0 0-2.5 0zM8 6.75V9.5a2 2 0 0 1-2 2H4.75m0 0a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0z" fill="none" stroke="currentColor" stroke-width="1"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">0</text>
+    </g>
+  </g>
+  </a>
+  <a href="https://github.com/AlooDaParatha/Github-Activities" target="_blank">
+  <g>
+    <rect x="20" y="166" width="373" height="108" rx="8"
+          fill="#f6f8fa" stroke="rgba(27,31,35,0.5)" stroke-width="1"/>
+
+    <!-- repo name -->
+    <g fill="#1f2328">
+      <path d="M6.5 3H3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9.5M9 2h5v5M13.5 2.5l-6 6" fill="none" transform="translate(34,178) scale(0.85)" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="52" y="190" font-size="13" font-weight="600"
+          fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Github-Activities</text>
+
+    <!-- description (up to 2 lines) -->
+    
+    <text x="34" y="210" font-size="11"
+          fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">📊 Self-hosted contribution graph · private contributions</text>
+    <text x="34" y="225" font-size="11"
+          fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">included · 4 themes · auto-updates daily · no externa…</text>
+
+    <!-- language pill -->
+    
+    <circle cx="38" cy="258" r="5" fill="#f1e05a"/>
+    <text x="48" y="262" font-size="10.5" fill="#57606a"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">JavaScript</text>
+
+    <!-- stats -->
+    <g transform="translate(275, 255)" fill="#57606a">
+      <path d="M8 .5l2.245 4.55 5.02.73-3.632 3.54.857 5-4.49-2.36-4.49 2.36.857-5L.735 5.78l5.02-.73z"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">2</text>
+    </g>
+    <g transform="translate(337, 255)" fill="#57606a">
+      <path d="M5 3.25a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0zm0 0v1.5a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-1.5m0 0a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 0 0-2.5 0zM8 6.75V9.5a2 2 0 0 1-2 2H4.75m0 0a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0z" fill="none" stroke="currentColor" stroke-width="1"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">0</text>
+    </g>
+  </g>
+  </a>
+  <a href="https://github.com/AlooDaParatha/Sakshit-Fanpage" target="_blank">
+  <g>
+    <rect x="407" y="166" width="373" height="108" rx="8"
+          fill="#f6f8fa" stroke="rgba(27,31,35,0.5)" stroke-width="1"/>
+
+    <!-- repo name -->
+    <g fill="#1f2328">
+      <path d="M6.5 3H3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9.5M9 2h5v5M13.5 2.5l-6 6" fill="none" transform="translate(421,178) scale(0.85)" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="439" y="190" font-size="13" font-weight="600"
+          fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Sakshit-Fanpage</text>
+
+    <!-- description (up to 2 lines) -->
+    
+
+    <!-- language pill -->
+    
+
+    <!-- stats -->
+    <g transform="translate(662, 255)" fill="#57606a">
+      <path d="M8 .5l2.245 4.55 5.02.73-3.632 3.54.857 5-4.49-2.36-4.49 2.36.857-5L.735 5.78l5.02-.73z"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">0</text>
+    </g>
+    <g transform="translate(724, 255)" fill="#57606a">
+      <path d="M5 3.25a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0zm0 0v1.5a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-1.5m0 0a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 0 0-2.5 0zM8 6.75V9.5a2 2 0 0 1-2 2H4.75m0 0a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0z" fill="none" stroke="currentColor" stroke-width="1"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">0</text>
+    </g>
+  </g>
+  </a>
+  <a href="https://github.com/AlooDaParatha/Hope-Bank" target="_blank">
+  <g>
+    <rect x="20" y="288" width="373" height="108" rx="8"
+          fill="#f6f8fa" stroke="rgba(27,31,35,0.5)" stroke-width="1"/>
+
+    <!-- repo name -->
+    <g fill="#1f2328">
+      <path d="M6.5 3H3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9.5M9 2h5v5M13.5 2.5l-6 6" fill="none" transform="translate(34,300) scale(0.85)" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="52" y="312" font-size="13" font-weight="600"
+          fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Hope-Bank</text>
+
+    <!-- description (up to 2 lines) -->
+    
+
+    <!-- language pill -->
+    
+
+    <!-- stats -->
+    <g transform="translate(275, 377)" fill="#57606a">
+      <path d="M8 .5l2.245 4.55 5.02.73-3.632 3.54.857 5-4.49-2.36-4.49 2.36.857-5L.735 5.78l5.02-.73z"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">0</text>
+    </g>
+    <g transform="translate(337, 377)" fill="#57606a">
+      <path d="M5 3.25a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0zm0 0v1.5a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-1.5m0 0a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 0 0-2.5 0zM8 6.75V9.5a2 2 0 0 1-2 2H4.75m0 0a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0z" fill="none" stroke="currentColor" stroke-width="1"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">0</text>
+    </g>
+  </g>
+  </a>
+  <a href="https://github.com/AlooDaParatha/ShikshaICSE" target="_blank">
+  <g>
+    <rect x="407" y="288" width="373" height="108" rx="8"
+          fill="#f6f8fa" stroke="rgba(27,31,35,0.5)" stroke-width="1"/>
+
+    <!-- repo name -->
+    <g fill="#1f2328">
+      <path d="M6.5 3H3a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V9.5M9 2h5v5M13.5 2.5l-6 6" fill="none" transform="translate(421,300) scale(0.85)" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="439" y="312" font-size="13" font-weight="600"
+          fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">ShikshaICSE</text>
+
+    <!-- description (up to 2 lines) -->
+    
+
+    <!-- language pill -->
+    
+    <circle cx="425" cy="380" r="5" fill="#e34c26"/>
+    <text x="435" y="384" font-size="10.5" fill="#57606a"
+          font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">HTML</text>
+
+    <!-- stats -->
+    <g transform="translate(662, 377)" fill="#57606a">
+      <path d="M8 .5l2.245 4.55 5.02.73-3.632 3.54.857 5-4.49-2.36-4.49 2.36.857-5L.735 5.78l5.02-.73z"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">0</text>
+    </g>
+    <g transform="translate(724, 377)" fill="#57606a">
+      <path d="M5 3.25a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0zm0 0v1.5a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-1.5m0 0a1.25 1.25 0 1 0 2.5 0 1.25 1.25 0 0 0-2.5 0zM8 6.75V9.5a2 2 0 0 1-2 2H4.75m0 0a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0z" fill="none" stroke="currentColor" stroke-width="1"/>
+      <text x="19" y="11" font-size="10.5" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">0</text>
+    </g>
+  </g>
+  </a>
+  
+
+  <text x="780" y="434" font-size="9.5" fill="#57606a"
+        text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Updated Aug 2, 2026</text>
+</svg>
