@@ -3,9 +3,18 @@
  * Fetches a user's showcased repositories from the GitHub GraphQL API.
  * Prefers the repos the user has manually pinned on their profile (pinnedItems).
  * Falls back to their top repositories by star count if nothing is pinned.
+ *
+ * NEW: Supports manual configuration via projects-config.json when USE_MANUAL_CONFIG=true
  */
 
 import fetch from "node-fetch";
+import { readFileSync, existsSync } from "fs";
+import { join, dirname } from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const ROOT = join(__dirname, "..");
+const CONFIG_PATH = join(ROOT, "projects-config.json");
 
 const GITHUB_GRAPHQL_URL = "https://api.github.com/graphql";
 
@@ -107,6 +116,58 @@ function normalizeRepo(repo) {
 }
 
 /**
+ * Loads projects from the manual config file (projects-config.json).
+ */
+function loadManualConfig() {
+    if (!existsSync(CONFIG_PATH)) {
+        throw new Error(
+            `projects-config.json not found at ${CONFIG_PATH}.\n` +
+            "Create one with manual project definitions or set USE_MANUAL_CONFIG=false."
+        );
+    }
+
+    let config;
+    try {
+        const raw = readFileSync(CONFIG_PATH, "utf8");
+        config = JSON.parse(raw);
+    } catch (err) {
+        throw new Error(
+            `Failed to parse projects-config.json: ${err.message}\n` +
+            "Ensure it's valid JSON."
+        );
+    }
+
+    if (!Array.isArray(config.projects)) {
+        throw new Error(
+            'projects-config.json must have a "projects" array at the root.'
+        );
+    }
+
+    // Validate required fields
+    config.projects.forEach((proj, idx) => {
+        const required = ["id", "name", "url"];
+        for (const field of required) {
+            if (!proj[field]) {
+                throw new Error(
+                    `Project at index ${idx} is missing required field: "${field}"`
+                );
+            }
+        }
+        // Ensure numeric fields are numbers
+        proj.stars = proj.stars ?? 0;
+        proj.forks = proj.forks ?? 0;
+        proj.description = proj.description || "";
+        proj.language = proj.language || null;
+        proj.languageColor = proj.languageColor || "#8b949e";
+        proj.homepageUrl = proj.homepageUrl || null;
+        proj.isArchived = proj.isArchived ?? false;
+        proj.updatedAt = proj.updatedAt || new Date().toISOString();
+    });
+
+    return config.projects;
+}
+
+/**
  * Fetches the repositories to showcase on a profile page.
  * @param {string} username - GitHub username
  * @param {string} token    - GitHub Personal Access Token (public_repo / read:user scope)
@@ -114,6 +175,26 @@ function normalizeRepo(repo) {
  * @returns {Promise<Object>} { username, projects, source, fetchedAt }
  */
 export async function fetchProjects(username, token, count = 6) {
+    const useManualConfig = process.env.USE_MANUAL_CONFIG === "true";
+
+    // Manual config mode
+    if (useManualConfig) {
+        console.log("Using manual configuration from projects-config.json…");
+        const projects = loadManualConfig();
+        const safeCount = Math.min(Math.max(parseInt(count, 10) || 6, 1), 12);
+        const limited = projects.slice(0, safeCount);
+
+        console.log(`✓ Loaded ${limited.length} project(s) from config (source: manual)`);
+
+        return {
+            username: username || "User",
+            projects: limited,
+            source: "manual-config",
+            fetchedAt: new Date().toISOString(),
+        };
+    }
+
+    // GitHub API mode (original behavior)
     if (!token) {
         throw new Error(
             "GH_PRIVATE_TOKEN is not set. " +

@@ -11,7 +11,8 @@
     "generate:all": "node scripts/generateAllThemes.js",
     "projects": "node scripts/generateProjects.js",
     "projects:dark": "THEME=dark node scripts/generateProjects.js",
-    "projects:cyberpunk": "THEME=cyberpunk node scripts/generateProjects.js"
+    "projects:cyberpunk": "THEME=cyberpunk node scripts/generateProjects.js",
+    "projects:individual": "INDIVIDUAL_PROJECTS=true node scripts/generateIndividualProjects.js"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"

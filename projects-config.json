@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": "example-project-1",
+      "name": "Example Project 1",
+      "description": "A sample project showcasing amazing features and capabilities",
+      "url": "https://github.com/username/example-project-1",
+      "homepageUrl": "https://example1.com",
+      "stars": 245,
+      "forks": 42,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a"
+    },
+    {
+      "id": "example-project-2",
+      "name": "Example Project 2",
+      "description": "Another incredible project with cutting-edge technology and modern architecture",
+      "url": "https://github.com/username/example-project-2",
+      "homepageUrl": null,
+      "stars": 1823,
+      "forks": 156,
+      "language": "Python",
+      "languageColor": "#3572A5"
+    },
+    {
+      "id": "example-project-3",
+      "name": "Example Project 3",
+      "description": "Innovative solution for solving complex problems",
+      "url": "https://github.com/username/example-project-3",
+      "homepageUrl": "https://example3.io",
+      "stars": 89,
+      "forks": 12,
+      "language": "TypeScript",
+      "languageColor": "#2b7489"
+    }
+  ]
+}

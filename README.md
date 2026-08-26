@@ -68,6 +68,74 @@ Cron job runs at 01:00 UTC every day. Also triggers on pushes to `main` and can 
 
 ---
 
+## 🗂️ Project Showcase
+
+You can showcase your hand-picked Github (or custom) projects as beautiful, responsive SVG cards. These cards support dark/light theme switching automatically!
+
+You can showcase projects in **two layout formats**:
+
+### 1. Collective Grid Layout (Default)
+Generate a single consolidated SVG containing all your project cards arranged in a grid.
+
+```html
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/projects-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/projects-light.svg?v=1">
+    <img alt="GitHub Project Showcase" src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/projects.svg?v=1">
+  </picture>
+</p>
+```
+
+### 2. Individual Cards Layout (Recommended)
+Generate separate, individual SVG files for each project. This is highly customizable and allows embedding specific project cards individually anywhere in your markdown!
+
+For each project, a separate `<picture>` responsive embed snippet is generated at `output/snippets/{project-id}.html`:
+
+```html
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/project-example-project-1-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/project-example-project-1-light.svg?v=1">
+    <img alt="Example Project 1" src="https://raw.githubusercontent.com/AlooDaParatha/Github-Activities/main/output/project-example-project-1.svg?v=1">
+  </picture>
+</p>
+```
+
+---
+
+## ⚙️ Project Configuration & Manual Mode
+
+By default, the showcases fetch your manually pinned items from Github API. 
+
+Alternatively, you can manually define custom projects / overrides by creating a `projects-config.json` file in the root of your repository.
+
+### Manual Configuration File (`projects-config.json`)
+
+Create a `projects-config.json` file at the root:
+
+```json
+{
+  "projects": [
+    {
+      "id": "my-cool-project",
+      "name": "My Cool Project",
+      "description": "An awesome custom project defined manually!",
+      "url": "https://github.com/my-username/my-cool-project",
+      "homepageUrl": "https://my-project-home.io",
+      "stars": 420,
+      "forks": 69,
+      "language": "TypeScript",
+      "languageColor": "#2b7489"
+    }
+  ]
+}
+```
+
+To tell the generation script to use your config rather than querying GitHub API, run with `USE_MANUAL_CONFIG=true`.
+
+---
+
 ## Themes
 
 <table>
