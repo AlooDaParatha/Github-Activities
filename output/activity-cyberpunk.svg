@@ -7,12 +7,12 @@
 >
   <defs>
     
-  <linearGradient id="area-k5iii" x1="0" y1="0" x2="0" y2="1">
+  <linearGradient id="area-tb663" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0%"   stop-color="rgba(127,90,240,0.4)"/>
     <stop offset="100%" stop-color="rgba(127,90,240,0)"/>
   </linearGradient>
     
-  <filter id="glow-k5iii">
+  <filter id="glow-tb663">
     <feGaussianBlur stdDeviation="3" result="blur"/>
     <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
@@ -23,22 +23,22 @@
 
   
   <text x="40" y="32" font-size="14" font-weight="600" fill="#00ffff"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" filter="url(#glow-k5iii)">
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" filter="url(#glow-tb663)">
     Ansh Yadav's Contributions
   </text>
   
   <line x1="40" y1="76.0" x2="780" y2="76.0"
         stroke="rgba(127,90,240,0.12)" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="36" y="80.0" font-size="9" fill="#7f5af0"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="end">1</text>
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="end">3</text>
   <line x1="40" y1="100.0" x2="780" y2="100.0"
         stroke="rgba(127,90,240,0.12)" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="36" y="104.0" font-size="9" fill="#7f5af0"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="end">1</text>
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="end">2</text>
   <line x1="40" y1="124.0" x2="780" y2="124.0"
         stroke="rgba(127,90,240,0.12)" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="36" y="128.0" font-size="9" fill="#7f5af0"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="end">0</text>
+        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" text-anchor="end">1</text>
   <line x1="40" y1="148.0" x2="780" y2="148.0"
         stroke="rgba(127,90,240,0.12)" stroke-width="1" stroke-dasharray="3,4"/>
   <text x="36" y="152.0" font-size="9" fill="#7f5af0"
@@ -48,62 +48,38 @@
         stroke="rgba(127,90,240,0.12)" stroke-width="1"/>
 
   <!-- Area fill -->
-  <path d="M 40.0,148.0 C 44.1,148.0 56.4,148.0 64.7,148.0 C 72.9,148.0 81.1,148.0 89.3,148.0 C 97.6,148.0 105.8,148.0 114.0,148.0 C 122.2,148.0 130.4,148.0 138.7,148.0 C 146.9,148.0 155.1,148.0 163.3,148.0 C 171.6,148.0 179.8,148.0 188.0,148.0 C 196.2,148.0 204.4,148.0 212.7,148.0 C 220.9,148.0 229.1,148.0 237.3,148.0 C 245.6,148.0 253.8,148.0 262.0,148.0 C 270.2,148.0 278.4,148.0 286.7,148.0 C 294.9,148.0 303.1,148.0 311.3,148.0 C 319.6,148.0 327.8,160.0 336.0,148.0 C 344.2,136.0 352.4,88.0 360.7,76.0 C 368.9,64.0 377.1,76.0 385.3,76.0 C 393.6,76.0 401.8,76.0 410.0,76.0 C 418.2,76.0 426.4,80.0 434.7,76.0 C 442.9,72.0 451.1,56.0 459.3,52.0 C 467.6,48.0 475.8,52.0 484.0,52.0 C 492.2,52.0 500.4,40.0 508.7,52.0 C 516.9,64.0 525.1,112.0 533.3,124.0 C 541.6,136.0 549.8,124.0 558.0,124.0 C 566.2,124.0 574.4,126.0 582.7,124.0 C 590.9,122.0 599.1,110.0 607.3,112.0 C 615.6,114.0 623.8,132.0 632.0,136.0 C 640.2,140.0 648.4,136.0 656.7,136.0 C 664.9,136.0 673.1,136.0 681.3,136.0 C 689.6,136.0 697.8,136.3 706.0,136.0 C 714.2,135.7 722.4,134.8 730.7,134.0 C 738.9,133.2 747.1,128.9 755.3,131.2 C 763.6,133.5 775.9,145.2 780.0,148.0 L 780.0,148 L 40.0,148 Z" fill="url(#area-k5iii)"/>
+  <path d="M 40.0,148.0 C 44.1,148.0 56.4,148.0 64.7,148.0 C 72.9,148.0 81.1,148.0 89.3,148.0 C 97.6,148.0 105.8,148.0 114.0,148.0 C 122.2,148.0 130.4,148.0 138.7,148.0 C 146.9,148.0 155.1,148.0 163.3,148.0 C 171.6,148.0 179.8,148.0 188.0,148.0 C 196.2,148.0 204.4,148.0 212.7,148.0 C 220.9,148.0 229.1,148.0 237.3,148.0 C 245.6,148.0 253.8,148.0 262.0,148.0 C 270.2,148.0 278.4,148.0 286.7,148.0 C 294.9,148.0 303.1,151.0 311.3,148.0 C 319.6,145.0 327.8,132.8 336.0,129.7 C 344.2,126.7 352.4,129.7 360.7,129.7 C 368.9,129.7 377.1,129.7 385.3,129.7 C 393.6,129.7 401.8,130.7 410.0,129.7 C 418.2,128.7 426.4,124.6 434.7,123.6 C 442.9,122.6 451.1,123.6 459.3,123.6 C 467.6,123.6 475.8,120.6 484.0,123.6 C 492.2,126.7 500.4,138.9 508.7,141.9 C 516.9,145.0 525.1,141.9 533.3,141.9 C 541.6,141.9 549.8,141.9 558.0,141.9 C 566.2,141.9 574.4,140.9 582.7,141.9 C 590.9,142.9 599.1,147.0 607.3,148.0 C 615.6,149.0 623.8,148.0 632.0,148.0 C 640.2,148.0 648.4,157.1 656.7,148.0 C 664.9,138.9 673.1,102.3 681.3,93.1 C 689.6,84.0 697.8,94.7 706.0,93.1 C 714.2,91.6 722.4,87.7 730.7,84.0 C 738.9,80.3 747.1,76.5 755.3,71.2 C 763.6,65.9 775.9,55.2 780.0,52.0 L 780.0,148 L 40.0,148 Z" fill="url(#area-tb663)"/>
 
   <!-- Line -->
-  <path d="M 40.0,148.0 C 44.1,148.0 56.4,148.0 64.7,148.0 C 72.9,148.0 81.1,148.0 89.3,148.0 C 97.6,148.0 105.8,148.0 114.0,148.0 C 122.2,148.0 130.4,148.0 138.7,148.0 C 146.9,148.0 155.1,148.0 163.3,148.0 C 171.6,148.0 179.8,148.0 188.0,148.0 C 196.2,148.0 204.4,148.0 212.7,148.0 C 220.9,148.0 229.1,148.0 237.3,148.0 C 245.6,148.0 253.8,148.0 262.0,148.0 C 270.2,148.0 278.4,148.0 286.7,148.0 C 294.9,148.0 303.1,148.0 311.3,148.0 C 319.6,148.0 327.8,160.0 336.0,148.0 C 344.2,136.0 352.4,88.0 360.7,76.0 C 368.9,64.0 377.1,76.0 385.3,76.0 C 393.6,76.0 401.8,76.0 410.0,76.0 C 418.2,76.0 426.4,80.0 434.7,76.0 C 442.9,72.0 451.1,56.0 459.3,52.0 C 467.6,48.0 475.8,52.0 484.0,52.0 C 492.2,52.0 500.4,40.0 508.7,52.0 C 516.9,64.0 525.1,112.0 533.3,124.0 C 541.6,136.0 549.8,124.0 558.0,124.0 C 566.2,124.0 574.4,126.0 582.7,124.0 C 590.9,122.0 599.1,110.0 607.3,112.0 C 615.6,114.0 623.8,132.0 632.0,136.0 C 640.2,140.0 648.4,136.0 656.7,136.0 C 664.9,136.0 673.1,136.0 681.3,136.0 C 689.6,136.0 697.8,136.3 706.0,136.0 C 714.2,135.7 722.4,134.8 730.7,134.0 C 738.9,133.2 747.1,128.9 755.3,131.2 C 763.6,133.5 775.9,145.2 780.0,148.0" fill="none"
+  <path d="M 40.0,148.0 C 44.1,148.0 56.4,148.0 64.7,148.0 C 72.9,148.0 81.1,148.0 89.3,148.0 C 97.6,148.0 105.8,148.0 114.0,148.0 C 122.2,148.0 130.4,148.0 138.7,148.0 C 146.9,148.0 155.1,148.0 163.3,148.0 C 171.6,148.0 179.8,148.0 188.0,148.0 C 196.2,148.0 204.4,148.0 212.7,148.0 C 220.9,148.0 229.1,148.0 237.3,148.0 C 245.6,148.0 253.8,148.0 262.0,148.0 C 270.2,148.0 278.4,148.0 286.7,148.0 C 294.9,148.0 303.1,151.0 311.3,148.0 C 319.6,145.0 327.8,132.8 336.0,129.7 C 344.2,126.7 352.4,129.7 360.7,129.7 C 368.9,129.7 377.1,129.7 385.3,129.7 C 393.6,129.7 401.8,130.7 410.0,129.7 C 418.2,128.7 426.4,124.6 434.7,123.6 C 442.9,122.6 451.1,123.6 459.3,123.6 C 467.6,123.6 475.8,120.6 484.0,123.6 C 492.2,126.7 500.4,138.9 508.7,141.9 C 516.9,145.0 525.1,141.9 533.3,141.9 C 541.6,141.9 549.8,141.9 558.0,141.9 C 566.2,141.9 574.4,140.9 582.7,141.9 C 590.9,142.9 599.1,147.0 607.3,148.0 C 615.6,149.0 623.8,148.0 632.0,148.0 C 640.2,148.0 648.4,157.1 656.7,148.0 C 664.9,138.9 673.1,102.3 681.3,93.1 C 689.6,84.0 697.8,94.7 706.0,93.1 C 714.2,91.6 722.4,87.7 730.7,84.0 C 738.9,80.3 747.1,76.5 755.3,71.2 C 763.6,65.9 775.9,55.2 780.0,52.0" fill="none"
         stroke="#7f5af0" stroke-width="2.5"
         stroke-linejoin="round" stroke-linecap="round"
-        filter="url(#glow-k5iii)"/>
+        filter="url(#glow-tb663)"/>
 
   <!-- Peak dots -->
   
-  <circle cx="360.7" cy="76.0" r="3"
-          fill="#e040fb" filter="url(#glow-k5iii)">
-    <title>0 contributions on Sun, Oct 18, 2026</title>
-  </circle>
-  <circle cx="385.3" cy="76.0" r="3"
-          fill="#e040fb" filter="url(#glow-k5iii)">
-    <title>0 contributions on Mon, Oct 19, 2026</title>
-  </circle>
-  <circle cx="410.0" cy="76.0" r="3"
-          fill="#e040fb" filter="url(#glow-k5iii)">
-    <title>0 contributions on Tue, Oct 20, 2026</title>
-  </circle>
-  <circle cx="459.3" cy="52.0" r="3"
-          fill="#e040fb" filter="url(#glow-k5iii)">
-    <title>0 contributions on Thu, Oct 22, 2026</title>
-  </circle>
-  <circle cx="484.0" cy="52.0" r="3"
-          fill="#e040fb" filter="url(#glow-k5iii)">
-    <title>0 contributions on Fri, Oct 23, 2026</title>
-  </circle>
-  <circle cx="508.7" cy="52.0" r="3"
-          fill="#e040fb" filter="url(#glow-k5iii)">
-    <title>0 contributions on Sat, Oct 24, 2026</title>
-  </circle>
 
   
   <text x="40.0" y="162"
         font-size="10" fill="#7f5af0"
         font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Oct</text>
-  <text x="706.0" y="162"
+  <text x="681.3" y="162"
         font-size="10" fill="#7f5af0"
         font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Nov</text>
   
   <text x="40" y="178"
         font-size="11" font-weight="600" fill="#ff2d55"
         font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-    9 contributions
+    26 contributions
   </text>
   <text x="40" y="193"
         font-size="10" fill="#a786ff"
         font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-    7 commits · 0 PRs · 0 issues · 0 reviews
+    20 commits · 0 PRs · 0 issues · 0 reviews
   </text>
   <text x="780" y="193"
         font-size="10" fill="#a786ff" text-anchor="end"
         font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
-    Updated Nov 4, 2026
+    Updated Nov 5, 2026
   </text>
 </svg>
